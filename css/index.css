@@ -1399,8 +1399,8 @@ li{
     .landing-left{
         height:auto;
         border: 0px solid #fff;
-        margin-left: 5rem;
-        margin-right: 4rem;
+        margin-left: 0rem;
+        margin-right: 0rem;
         padding-top:2rem;
         padding-left: 3rem;
     }
@@ -1425,7 +1425,7 @@ li{
     }
     .landing-image{
         border: 1px solid #eee;
-        height: 35rem;
+        height: 30rem;
         border-radius: 35rem;
         background:linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.15)),url(../images/vipinrao.png);
         background-repeat: no-repeat;
@@ -1459,8 +1459,8 @@ li{
     }
     .main-card-div{
         border: 1px solid #999;
-        margin-left: 1.5rem;
-        margin-right: 1.5rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
         margin-top: 4rem;
         height: auto;
         padding-top:0px;
